@@ -42,7 +42,9 @@ Fig : Summary Statistics of Temp
     
 -   The December temperatures seem to be more variable than those in June given its larger range in recorded temperatures (comparing the max vs min temp of each month)
     
-    -   However, when looking at the plotted distribution of Dec Temps, we can see that the median temperature in Dec is more inline with the average, and there are not many outliers skuing the average temperature higher or lower than the actual recorded frequency.  [![image](https://user-images.githubusercontent.com/119648166/220240152-ea8a5b90-6070-474e-96c6-a6ae67b379f9.png)](https://user-images.githubusercontent.com/119648166/220240152-ea8a5b90-6070-474e-96c6-a6ae67b379f9.png)  Fig : Temperature vs Frequency recorded in June  [![image](https://user-images.githubusercontent.com/119648166/220240185-b066e61d-9a0d-425e-b741-fd20a9265743.png)](https://user-images.githubusercontent.com/119648166/220240185-b066e61d-9a0d-425e-b741-fd20a9265743.png)  Fig : Temperature vs Frequency recorded in December
+    -   However, when looking at the plotted distribution of Dec Temps, we can see that the median temperature in Dec is more inline with the average, and there are not many outliers skuing the average temperature higher or lower than the actual recorded frequency.  [![image](https://user-images.githubusercontent.com/119648166/220240152-ea8a5b90-6070-474e-96c6-a6ae67b379f9.png)](https://user-images.githubusercontent.com/119648166/220240152-ea8a5b90-6070-474e-96c6-a6ae67b379f9.png)  
+  Fig : Temperature vs Frequency recorded in June  [![image](https://user-images.githubusercontent.com/119648166/220240185-b066e61d-9a0d-425e-b741-fd20a9265743.png)](https://user-images.githubusercontent.com/119648166/220240185-b066e61d-9a0d-425e-b741-fd20a9265743.png)  
+  Fig : Temperature vs Frequency recorded in December
 -   The frequency of temperatures recorded in June tends to have a much more normal, tight bell curve distribution, cooroborated by the smaller std measure of June temps vs December temps.
     
 
