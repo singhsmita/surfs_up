@@ -10,13 +10,16 @@ In order to be able to open a Surf and Shake shop serving surfboards and ice cre
 ### Purpose
 Considering temperature data for the months of June and December in Oahu, we run our analysis in order to determine if the surf and ice cream shop business is sustainable year-round. In order to achieve this weather has to be in out favor for most number of days throughout the year.
 
-![enter image description here](%22C:%5CUsers%5Csmita_emkucur%5CPictures%5Cb5f3c2c56052b9e344b9b14fb886342f.jpg%22)
+![b5f3c2c56052b9e344b9b14fb886342f](https://user-images.githubusercontent.com/119648166/220239451-7597e418-ba4a-42f7-b7ef-6dc95e62fd6c.jpg)
+
 ## Results
 The analysis focuses on the key differences in weather between June and December.
 
  - summary statistics for the June  and December temperatures
 ![enter image description here](%22C:%5CUsers%5Csmita_emkucur%5CDesktop%5CBoot%20Camp%5CMod%209%20Python-sqllite-flask%5Csurfs_up%5Csummary%20stats.png%22)
-  Fig : Summary Statistics of Temp
+ 
+ 
+ Fig : Summary Statistics of Temp
 #### Comparison of the Temperatures for June and December
 
 **1. Number of data**
