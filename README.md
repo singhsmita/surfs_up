@@ -17,7 +17,7 @@ The analysis focuses on the key differences in weather between June and December
 
  
  ![summary stats](https://user-images.githubusercontent.com/119648166/220239750-55cf7833-c9b9-4444-af2f-ac3155b30fac.png)
-           Fig : Summary Statistics of Temp
+  Fig : Summary Statistics of Temp
 #### Comparison of the Temperatures for June and December
 
 **1. Number of data**
@@ -39,12 +39,15 @@ The analysis focuses on the key differences in weather between June and December
 -   The December temperatures seem to be more variable than those in June given its larger range in recorded temperatures (comparing the max vs min temp of each month)
     -   However, when looking at the plotted distribution of Dec Temps, we can see that the median temperature in Dec is more inline with the average, and there are not many outliers skuing the average temperature higher or lower than the actual recorded frequency.
 ![image](https://user-images.githubusercontent.com/119648166/220240152-ea8a5b90-6070-474e-96c6-a6ae67b379f9.png)
-     Fig : Temperature vs Frequency  recorded in June
+ Fig : Temperature vs Frequency  recorded in June
 ![image](https://user-images.githubusercontent.com/119648166/220240185-b066e61d-9a0d-425e-b741-fd20a9265743.png)
-     Fig : Temperature vs Frequency  recorded in December
+  Fig : Temperature vs Frequency  recorded in December
 
 -   The frequency of temperatures recorded in June tends to have a much more normal, tight bell curve distribution, cooroborated by the smaller std measure of June temps vs December temps.
 ### Comparison of the Rainfall for June and December.
+![image](https://user-images.githubusercontent.com/119648166/220240596-1983e53d-3753-4fbc-a6ac-d04e01bd2723.png)
+Fig : Rainfall Stats in June and December.
+
 **1. Number of data**
 
 -   There are less data for December (1405 data points) than for June (1574 data points).
@@ -61,6 +64,7 @@ The analysis focuses on the key differences in weather between June and December
 ### Temperatures for June and December
 
 From the temperature report we can see that there is not much difference in the weather in June and December, indicating mild and steady temperatures year-round. .To find out protentional outliers and other trends  **the box and whiskers chart**  can tell us more about that.
+![image](https://user-images.githubusercontent.com/119648166/220240686-6815619a-3f0e-4730-8938-10c357de463d.png)
 
 From the graph we can see that there are just a few outliers. There are more outliers below the lower boundary in December, however the minimum temperature is 56 °F.
 
@@ -68,8 +72,10 @@ From the graph we can see that there are just a few outliers. There are more out
 
 The first difference that we notice is the max rainfall in June and December (4.43 and 6.42 inches respectively) and in both cases, highly above the mean.
 Also, standard deviation is high, mean and median or 2nd quartile are far apart, meaning that distribution of the data is highly spread out. That indicates the presence of extreme values in the dataset. The easiest way to determine outliers is to plot **box and whiskers chart**.
+![image](https://user-images.githubusercontent.com/119648166/220240719-4d46be7b-ffbd-4939-8a18-483f3cbba9f1.png)
 
 To get a better understanding of the average rainfall every year,I have plotted another graph .
+![image](https://user-images.githubusercontent.com/119648166/220240741-45e615f8-7c99-4889-81d6-f20426a29ed9.png)
 
 From the graph above ,we notice that  December 2010  had heavy rainfall.However,there is  significant drop in the following years. The rainfall became pretty steady in the following years without much variation in both months.
 
