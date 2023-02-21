@@ -1,10 +1,6 @@
 # surfs_up
 Weather data analysis /Jupyter nb /SQLLite /Flask
 
-# Surfs Up
-Weather  Data  Analysis  using SQLite
-
-
 ## Project Overview
 In order to be able to open a Surf and Shake shop serving surfboards and ice cream to locals, tourists in Oahu,Hawaii ,we run a SQLite analysis on Temperature trends .This project explores the power of Advanced Data Storage and Retrieval to efficently produce an analyis of temperature trends in Oahu, Hawaii.
 ### Purpose
@@ -21,8 +17,7 @@ The analysis focuses on the key differences in weather between June and December
 
  
  ![summary stats](https://user-images.githubusercontent.com/119648166/220239750-55cf7833-c9b9-4444-af2f-ac3155b30fac.png)
-
- Fig : Summary Statistics of Temp
+           Fig : Summary Statistics of Temp
 #### Comparison of the Temperatures for June and December
 
 **1. Number of data**
@@ -43,6 +38,10 @@ The analysis focuses on the key differences in weather between June and December
 
 -   The December temperatures seem to be more variable than those in June given its larger range in recorded temperatures (comparing the max vs min temp of each month)
     -   However, when looking at the plotted distribution of Dec Temps, we can see that the median temperature in Dec is more inline with the average, and there are not many outliers skuing the average temperature higher or lower than the actual recorded frequency.
+![image](https://user-images.githubusercontent.com/119648166/220240152-ea8a5b90-6070-474e-96c6-a6ae67b379f9.png)
+     Fig : Temperature vs Frequency  recorded in June
+![image](https://user-images.githubusercontent.com/119648166/220240185-b066e61d-9a0d-425e-b741-fd20a9265743.png)
+     Fig : Temperature vs Frequency  recorded in December
 
 -   The frequency of temperatures recorded in June tends to have a much more normal, tight bell curve distribution, cooroborated by the smaller std measure of June temps vs December temps.
 ### Comparison of the Rainfall for June and December.
