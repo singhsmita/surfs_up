@@ -18,7 +18,8 @@ The analysis focuses on the key differences in weather between June and December
 
 -   summary statistics for the June and December temperatures
 
-[![summary stats](https://user-images.githubusercontent.com/119648166/220239750-55cf7833-c9b9-4444-af2f-ac3155b30fac.png)](https://user-images.githubusercontent.com/119648166/220239750-55cf7833-c9b9-4444-af2f-ac3155b30fac.png)  Fig : Summary Statistics of Temp
+[![summary stats](https://user-images.githubusercontent.com/119648166/220239750-55cf7833-c9b9-4444-af2f-ac3155b30fac.png)](https://user-images.githubusercontent.com/119648166/220239750-55cf7833-c9b9-4444-af2f-ac3155b30fac.png)  
+Fig : Summary Statistics of Temp
 
 #### [](https://github.com/singhsmita/surfs_up/blob/main/README.md#comparison-of-the-temperatures-for-june-and-december)Comparison of the Temperatures for June and December
 
@@ -47,7 +48,8 @@ The analysis focuses on the key differences in weather between June and December
 
 ### [](https://github.com/singhsmita/surfs_up/blob/main/README.md#comparison-of-the-rainfall-for-june-and-december)Comparison of the Rainfall for June and December.
 
-[![image](https://user-images.githubusercontent.com/119648166/220240596-1983e53d-3753-4fbc-a6ac-d04e01bd2723.png)](https://user-images.githubusercontent.com/119648166/220240596-1983e53d-3753-4fbc-a6ac-d04e01bd2723.png)  Fig : Rainfall Stats in June and December.
+[![image](https://user-images.githubusercontent.com/119648166/220240596-1983e53d-3753-4fbc-a6ac-d04e01bd2723.png)](https://user-images.githubusercontent.com/119648166/220240596-1983e53d-3753-4fbc-a6ac-d04e01bd2723.png)  
+Fig : Rainfall Stats in June and December.
 
 **1. Number of data**
 
